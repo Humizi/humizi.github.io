@@ -1,0 +1,13 @@
+{
+  "name": "ASAP Core",
+  "version": "1.0.0",
+  "src": "https://humizi.github.io/asap-plugin.js",
+  "widgets": [
+    {
+      "type": "dev.asap:text",
+      "label": "Text",
+      "fieldSettings": "asap-text-field-settings",
+      "fieldValue": "asap-text-field-value"
+    }
+  ]
+}
